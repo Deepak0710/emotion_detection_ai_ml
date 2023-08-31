@@ -1,0 +1,4 @@
+Emotion Intelligence is a branch of A.I. that allows computers to understand human non-verbal cues such as body language and facial expressions.
+Aim of this project is to classify people’s emotions based on their facial images.
+We are going to build, train and deploy to deep neural networks that automatically monitors people's emotions and expressions.
+The original FER2013 dataset in Kaggle is available as a single csv file. I had converted into a dataset of images in the PNG format for training/testing.
